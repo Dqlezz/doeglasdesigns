@@ -408,7 +408,7 @@ footer .footer-container .copyright {
         grid-template-columns: repeat(2, 1fr);
     -ms-grid-rows: .1fr .1fr 1fr 1fr;
         grid-template-rows: .1fr .1fr 1fr 1fr;
-        grid-template-areas: "picture1 picture2" "long-picture long-picture" "picture4 picture5" "picture6 picture6";
+        grid-template-areas: "picture1 picture2" "long-picture long-picture" "picture4 picture5" "picture6 picture7";
     margin-top: -5em;
     margin-bottom: 5em;
   }
